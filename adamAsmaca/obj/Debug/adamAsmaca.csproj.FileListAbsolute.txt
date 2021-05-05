@@ -1,0 +1,10 @@
+C:\Users\canha\Desktop\GitHub\C#\adamAsmaca\bin\Debug\adamAsmaca.exe.config
+C:\Users\canha\Desktop\GitHub\C#\adamAsmaca\bin\Debug\adamAsmaca.exe
+C:\Users\canha\Desktop\GitHub\C#\adamAsmaca\bin\Debug\adamAsmaca.pdb
+C:\Users\canha\Desktop\GitHub\C#\adamAsmaca\obj\Debug\adamAsmaca.csprojAssemblyReference.cache
+C:\Users\canha\Desktop\GitHub\C#\adamAsmaca\obj\Debug\adamAsmaca.Form1.resources
+C:\Users\canha\Desktop\GitHub\C#\adamAsmaca\obj\Debug\adamAsmaca.Properties.Resources.resources
+C:\Users\canha\Desktop\GitHub\C#\adamAsmaca\obj\Debug\adamAsmaca.csproj.GenerateResource.cache
+C:\Users\canha\Desktop\GitHub\C#\adamAsmaca\obj\Debug\adamAsmaca.csproj.CoreCompileInputs.cache
+C:\Users\canha\Desktop\GitHub\C#\adamAsmaca\obj\Debug\adamAsmaca.exe
+C:\Users\canha\Desktop\GitHub\C#\adamAsmaca\obj\Debug\adamAsmaca.pdb
