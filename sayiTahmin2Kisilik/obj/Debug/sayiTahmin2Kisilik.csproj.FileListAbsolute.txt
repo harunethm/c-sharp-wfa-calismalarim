@@ -1,0 +1,12 @@
+C:\Users\canha\Desktop\GitHub\C#\sayiTahmin2Kisilik\obj\Debug\sayiTahmin2Kisilik.csprojAssemblyReference.cache
+C:\Users\canha\Desktop\GitHub\C#\sayiTahmin2Kisilik\obj\Debug\sayiTahmin2Kisilik.formAnaEkran.resources
+C:\Users\canha\Desktop\GitHub\C#\sayiTahmin2Kisilik\obj\Debug\sayiTahmin2Kisilik.formAyarlar.resources
+C:\Users\canha\Desktop\GitHub\C#\sayiTahmin2Kisilik\obj\Debug\sayiTahmin2Kisilik.formSayiGirisi.resources
+C:\Users\canha\Desktop\GitHub\C#\sayiTahmin2Kisilik\obj\Debug\sayiTahmin2Kisilik.Properties.Resources.resources
+C:\Users\canha\Desktop\GitHub\C#\sayiTahmin2Kisilik\obj\Debug\sayiTahmin2Kisilik.csproj.GenerateResource.cache
+C:\Users\canha\Desktop\GitHub\C#\sayiTahmin2Kisilik\obj\Debug\sayiTahmin2Kisilik.csproj.CoreCompileInputs.cache
+C:\Users\canha\Desktop\GitHub\C#\sayiTahmin2Kisilik\bin\Debug\sayiTahmin2Kisilik.exe.config
+C:\Users\canha\Desktop\GitHub\C#\sayiTahmin2Kisilik\bin\Debug\sayiTahmin2Kisilik.exe
+C:\Users\canha\Desktop\GitHub\C#\sayiTahmin2Kisilik\bin\Debug\sayiTahmin2Kisilik.pdb
+C:\Users\canha\Desktop\GitHub\C#\sayiTahmin2Kisilik\obj\Debug\sayiTahmin2Kisilik.exe
+C:\Users\canha\Desktop\GitHub\C#\sayiTahmin2Kisilik\obj\Debug\sayiTahmin2Kisilik.pdb

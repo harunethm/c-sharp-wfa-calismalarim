@@ -1,0 +1,2 @@
+oyuncu:harun_skor:100;
+oyuncu:Player 1_skor:100;
