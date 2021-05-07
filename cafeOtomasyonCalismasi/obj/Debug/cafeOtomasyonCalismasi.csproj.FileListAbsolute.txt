@@ -1,0 +1,13 @@
+C:\Users\canha\Desktop\GitHub\C#\cafeOtomasyonCalismasi\bin\Debug\cafeOtomasyonCalismasi.exe.config
+C:\Users\canha\Desktop\GitHub\C#\cafeOtomasyonCalismasi\bin\Debug\cafeOtomasyonCalismasi.exe
+C:\Users\canha\Desktop\GitHub\C#\cafeOtomasyonCalismasi\bin\Debug\cafeOtomasyonCalismasi.pdb
+C:\Users\canha\Desktop\GitHub\C#\cafeOtomasyonCalismasi\obj\Debug\cafeOtomasyonCalismasi.csprojAssemblyReference.cache
+C:\Users\canha\Desktop\GitHub\C#\cafeOtomasyonCalismasi\obj\Debug\cafeOtomasyonCalismasi.Properties.Resources.resources
+C:\Users\canha\Desktop\GitHub\C#\cafeOtomasyonCalismasi\obj\Debug\cafeOtomasyonCalismasi.csproj.GenerateResource.cache
+C:\Users\canha\Desktop\GitHub\C#\cafeOtomasyonCalismasi\obj\Debug\cafeOtomasyonCalismasi.csproj.CoreCompileInputs.cache
+C:\Users\canha\Desktop\GitHub\C#\cafeOtomasyonCalismasi\obj\Debug\cafeOtomasyonCalismasi.exe
+C:\Users\canha\Desktop\GitHub\C#\cafeOtomasyonCalismasi\obj\Debug\cafeOtomasyonCalismasi.pdb
+C:\Users\canha\Desktop\GitHub\C#\cafeOtomasyonCalismasi\obj\Debug\cafeOtomasyonCalismasi.formGiris.resources
+C:\Users\canha\Desktop\GitHub\C#\cafeOtomasyonCalismasi\obj\Debug\cafeOtomasyonCalismasi.formMasalar.resources
+C:\Users\canha\Desktop\GitHub\C#\cafeOtomasyonCalismasi\obj\Debug\cafeOtomasyonCalismasi.formMenu.resources
+C:\Users\canha\Desktop\GitHub\C#\cafeOtomasyonCalismasi\obj\Debug\cafeOtomasyonCalismasi.formSiparis.resources
