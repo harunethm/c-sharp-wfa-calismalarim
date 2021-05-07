@@ -1,0 +1,10 @@
+C:\Users\canha\Desktop\GitHub\C#\decimalToHexadecimalCevirici\bin\Debug\decimalToHexadecimalCevirici.exe.config
+C:\Users\canha\Desktop\GitHub\C#\decimalToHexadecimalCevirici\bin\Debug\decimalToHexadecimalCevirici.exe
+C:\Users\canha\Desktop\GitHub\C#\decimalToHexadecimalCevirici\bin\Debug\decimalToHexadecimalCevirici.pdb
+C:\Users\canha\Desktop\GitHub\C#\decimalToHexadecimalCevirici\obj\Debug\decimalToHexadecimalCevirici.csprojAssemblyReference.cache
+C:\Users\canha\Desktop\GitHub\C#\decimalToHexadecimalCevirici\obj\Debug\decimalToHexadecimalCevirici.Form1.resources
+C:\Users\canha\Desktop\GitHub\C#\decimalToHexadecimalCevirici\obj\Debug\decimalToHexadecimalCevirici.Properties.Resources.resources
+C:\Users\canha\Desktop\GitHub\C#\decimalToHexadecimalCevirici\obj\Debug\decimalToHexadecimalCevirici.csproj.GenerateResource.cache
+C:\Users\canha\Desktop\GitHub\C#\decimalToHexadecimalCevirici\obj\Debug\decimalToHexadecimalCevirici.csproj.CoreCompileInputs.cache
+C:\Users\canha\Desktop\GitHub\C#\decimalToHexadecimalCevirici\obj\Debug\decimalToHexadecimalCevirici.exe
+C:\Users\canha\Desktop\GitHub\C#\decimalToHexadecimalCevirici\obj\Debug\decimalToHexadecimalCevirici.pdb

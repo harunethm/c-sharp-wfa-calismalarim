@@ -1,0 +1,10 @@
+C:\Users\canha\Desktop\GitHub\C#\ikiSayiArasindakiAsallar\bin\Debug\ikiSayiArasindakiAsallar.exe.config
+C:\Users\canha\Desktop\GitHub\C#\ikiSayiArasindakiAsallar\bin\Debug\ikiSayiArasindakiAsallar.exe
+C:\Users\canha\Desktop\GitHub\C#\ikiSayiArasindakiAsallar\bin\Debug\ikiSayiArasindakiAsallar.pdb
+C:\Users\canha\Desktop\GitHub\C#\ikiSayiArasindakiAsallar\obj\Debug\ikiSayiArasindakiAsallar.csprojAssemblyReference.cache
+C:\Users\canha\Desktop\GitHub\C#\ikiSayiArasindakiAsallar\obj\Debug\ikiSayiArasindakiAsallar.Form1.resources
+C:\Users\canha\Desktop\GitHub\C#\ikiSayiArasindakiAsallar\obj\Debug\ikiSayiArasindakiAsallar.Properties.Resources.resources
+C:\Users\canha\Desktop\GitHub\C#\ikiSayiArasindakiAsallar\obj\Debug\ikiSayiArasindakiAsallar.csproj.GenerateResource.cache
+C:\Users\canha\Desktop\GitHub\C#\ikiSayiArasindakiAsallar\obj\Debug\ikiSayiArasindakiAsallar.csproj.CoreCompileInputs.cache
+C:\Users\canha\Desktop\GitHub\C#\ikiSayiArasindakiAsallar\obj\Debug\ikiSayiArasindakiAsallar.exe
+C:\Users\canha\Desktop\GitHub\C#\ikiSayiArasindakiAsallar\obj\Debug\ikiSayiArasindakiAsallar.pdb

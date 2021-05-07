@@ -1,0 +1,10 @@
+C:\Users\canha\Desktop\GitHub\C#\ikiSayiArasindaRandomSayiUretme\bin\Debug\ikiSayiArasindaRandomSayiUretme.exe.config
+C:\Users\canha\Desktop\GitHub\C#\ikiSayiArasindaRandomSayiUretme\bin\Debug\ikiSayiArasindaRandomSayiUretme.exe
+C:\Users\canha\Desktop\GitHub\C#\ikiSayiArasindaRandomSayiUretme\bin\Debug\ikiSayiArasindaRandomSayiUretme.pdb
+C:\Users\canha\Desktop\GitHub\C#\ikiSayiArasindaRandomSayiUretme\obj\Debug\ikiSayiArasindaRandomSayiUretme.csprojAssemblyReference.cache
+C:\Users\canha\Desktop\GitHub\C#\ikiSayiArasindaRandomSayiUretme\obj\Debug\ikiSayiArasindaRandomSayiUretme.Form1.resources
+C:\Users\canha\Desktop\GitHub\C#\ikiSayiArasindaRandomSayiUretme\obj\Debug\ikiSayiArasindaRandomSayiUretme.Properties.Resources.resources
+C:\Users\canha\Desktop\GitHub\C#\ikiSayiArasindaRandomSayiUretme\obj\Debug\ikiSayiArasindaRandomSayiUretme.csproj.GenerateResource.cache
+C:\Users\canha\Desktop\GitHub\C#\ikiSayiArasindaRandomSayiUretme\obj\Debug\ikiSayiArasindaRandomSayiUretme.csproj.CoreCompileInputs.cache
+C:\Users\canha\Desktop\GitHub\C#\ikiSayiArasindaRandomSayiUretme\obj\Debug\ikiSayiArasindaRandomSayiUretme.exe
+C:\Users\canha\Desktop\GitHub\C#\ikiSayiArasindaRandomSayiUretme\obj\Debug\ikiSayiArasindaRandomSayiUretme.pdb
