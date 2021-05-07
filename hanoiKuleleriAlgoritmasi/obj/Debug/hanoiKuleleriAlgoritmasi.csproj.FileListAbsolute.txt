@@ -1,0 +1,10 @@
+C:\Users\canha\Desktop\GitHub\C#\hanoiKuleleriAlgoritmasi\obj\Debug\hanoiKuleleriAlgoritmasi.csprojAssemblyReference.cache
+C:\Users\canha\Desktop\GitHub\C#\hanoiKuleleriAlgoritmasi\obj\Debug\hanoiKuleleriAlgoritmasi.Form1.resources
+C:\Users\canha\Desktop\GitHub\C#\hanoiKuleleriAlgoritmasi\obj\Debug\hanoiKuleleriAlgoritmasi.Properties.Resources.resources
+C:\Users\canha\Desktop\GitHub\C#\hanoiKuleleriAlgoritmasi\obj\Debug\hanoiKuleleriAlgoritmasi.csproj.GenerateResource.cache
+C:\Users\canha\Desktop\GitHub\C#\hanoiKuleleriAlgoritmasi\obj\Debug\hanoiKuleleriAlgoritmasi.csproj.CoreCompileInputs.cache
+C:\Users\canha\Desktop\GitHub\C#\hanoiKuleleriAlgoritmasi\bin\Debug\hanoiKuleleriAlgoritmasi.exe.config
+C:\Users\canha\Desktop\GitHub\C#\hanoiKuleleriAlgoritmasi\bin\Debug\hanoiKuleleriAlgoritmasi.exe
+C:\Users\canha\Desktop\GitHub\C#\hanoiKuleleriAlgoritmasi\bin\Debug\hanoiKuleleriAlgoritmasi.pdb
+C:\Users\canha\Desktop\GitHub\C#\hanoiKuleleriAlgoritmasi\obj\Debug\hanoiKuleleriAlgoritmasi.exe
+C:\Users\canha\Desktop\GitHub\C#\hanoiKuleleriAlgoritmasi\obj\Debug\hanoiKuleleriAlgoritmasi.pdb
