@@ -1,0 +1,11 @@
+C:\Users\canha\Desktop\GitHub\C#\mayinTarlasi_armstrongSayiBul\bin\Debug\mayinTarlasi_armstrongSayiBul.exe.config
+C:\Users\canha\Desktop\GitHub\C#\mayinTarlasi_armstrongSayiBul\bin\Debug\mayinTarlasi_armstrongSayiBul.exe
+C:\Users\canha\Desktop\GitHub\C#\mayinTarlasi_armstrongSayiBul\bin\Debug\mayinTarlasi_armstrongSayiBul.pdb
+C:\Users\canha\Desktop\GitHub\C#\mayinTarlasi_armstrongSayiBul\obj\Debug\mayinTarlasi_armstrongSayiBul.csprojAssemblyReference.cache
+C:\Users\canha\Desktop\GitHub\C#\mayinTarlasi_armstrongSayiBul\obj\Debug\mayinTarlasi_armstrongSayiBul.Properties.Resources.resources
+C:\Users\canha\Desktop\GitHub\C#\mayinTarlasi_armstrongSayiBul\obj\Debug\mayinTarlasi_armstrongSayiBul.csproj.GenerateResource.cache
+C:\Users\canha\Desktop\GitHub\C#\mayinTarlasi_armstrongSayiBul\obj\Debug\mayinTarlasi_armstrongSayiBul.csproj.CoreCompileInputs.cache
+C:\Users\canha\Desktop\GitHub\C#\mayinTarlasi_armstrongSayiBul\obj\Debug\mayinTarlasi_armstrongSayiBul.exe
+C:\Users\canha\Desktop\GitHub\C#\mayinTarlasi_armstrongSayiBul\obj\Debug\mayinTarlasi_armstrongSayiBul.pdb
+C:\Users\canha\Desktop\GitHub\C#\mayinTarlasi_armstrongSayiBul\obj\Debug\mayinTarlasi_armstrongSayiBul.formMain.resources
+C:\Users\canha\Desktop\GitHub\C#\mayinTarlasi_armstrongSayiBul\obj\Debug\mayinTarlasi_armstrongSayiBul.formPreview.resources

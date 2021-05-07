@@ -1,0 +1,10 @@
+E:\Visual Studio Kodları\mikroGSShesaplayıcı\bin\Debug\mikroGSShesaplayıcı.exe.config
+E:\Visual Studio Kodları\mikroGSShesaplayıcı\bin\Debug\mikroGSShesaplayıcı.exe
+E:\Visual Studio Kodları\mikroGSShesaplayıcı\bin\Debug\mikroGSShesaplayıcı.pdb
+E:\Visual Studio Kodları\mikroGSShesaplayıcı\obj\Debug\mikroGSShesaplayıcı.csprojAssemblyReference.cache
+E:\Visual Studio Kodları\mikroGSShesaplayıcı\obj\Debug\mikroGSShesaplayıcı.Form1.resources
+E:\Visual Studio Kodları\mikroGSShesaplayıcı\obj\Debug\mikroGSShesaplayıcı.Properties.Resources.resources
+E:\Visual Studio Kodları\mikroGSShesaplayıcı\obj\Debug\mikroGSShesaplayıcı.csproj.GenerateResource.cache
+E:\Visual Studio Kodları\mikroGSShesaplayıcı\obj\Debug\mikroGSShesaplayıcı.csproj.CoreCompileInputs.cache
+E:\Visual Studio Kodları\mikroGSShesaplayıcı\obj\Debug\mikroGSShesaplayıcı.exe
+E:\Visual Studio Kodları\mikroGSShesaplayıcı\obj\Debug\mikroGSShesaplayıcı.pdb
